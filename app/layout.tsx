@@ -16,6 +16,9 @@ export const metadata: Metadata = {
     "APIs REST",
     "Arquitectura",
   ],
+  icons: {
+    icon: "/favicon.svg",
+  },
 };
 
 export default function RootLayout({
