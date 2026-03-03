@@ -17,7 +17,7 @@ export default function Hero() {
   
           <div className="mt-8 flex justify-center gap-4">
             <a
-              href="https://www.linkedin.com"
+              href="https://www.linkedin.com/in/gabrielapare"
               target="_blank"
               className="px-6 py-3 bg-blue-900 text-white rounded-md hover:bg-blue-800 transition"
             >
@@ -25,7 +25,7 @@ export default function Hero() {
             </a>
   
             <a
-              href="mailto:tuemail@ejemplo.com"
+              href="gp.gestionesonline@gmail.com"
               className="px-6 py-3 border border-blue-900 text-blue-900 rounded-md hover:bg-blue-50 transition"
             >
               Contacto

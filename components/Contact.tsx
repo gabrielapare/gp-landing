@@ -11,14 +11,14 @@ export default function Contact() {
   
         <div className="flex justify-center gap-6">
           <a
-            href="mailto:tuemail@ejemplo.com"
+            href="gp.gestionesonline@gmail.com"
             className="text-blue-900 font-medium hover:underline"
           >
             Email
           </a>
   
           <a
-            href="https://www.linkedin.com"
+            href="https://www.linkedin.com/in/gabrielapare"
             target="_blank"
             className="text-blue-900 font-medium hover:underline"
           >
